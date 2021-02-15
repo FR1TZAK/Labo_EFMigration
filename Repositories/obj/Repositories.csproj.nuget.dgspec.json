@@ -1,36 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Repositories\\Repositories.csproj": {}
+    "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Models\\Models.csproj": {
+    "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\Sung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Models\\obj\\",
+        "projectPath": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Sung Lostrie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sung Lostrie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,7 +41,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -63,40 +64,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Repositories\\Repositories.csproj": {
+    "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\Sung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Repositories\\obj\\",
+        "projectPath": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\Sung Lostrie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sung\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sung Lostrie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\Sung\\source\\SyntraRepos\\Labo5_EFMigration\\Models\\Models.csproj"
+              "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\Sung Lostrie\\source\\My Repos\\Labo_EFMigration\\Models\\Models.csproj"
               }
             }
           }
@@ -108,7 +109,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -144,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
